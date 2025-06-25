@@ -9,7 +9,7 @@ import (
 	"github.com/k0kubun/pp"
 )
 
-// Меню команд
+// Меню команд!
 func Menu() {
 
 	// Слайсы всех данных
